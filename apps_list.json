@@ -1,8 +1,8 @@
 [
   {
-    "app_name": "Discounter",
+    "app_name": "Discounter - Hitung & Split Diskon",
     "app_package": "com.daftech.discounter",
     "app_link": "https://play.google.com/store/apps/details?id=com.daftech.discounter",
-    "app_icon": "https://drive.google.com/file/d/14-_iGkvo-OAtFEZYxZXrXK4oChSbuTlk/view"
+    "app_icon": "https://raw.githubusercontent.com/daf-tech/AppsList/main/discounter.png"
   }
 ]
